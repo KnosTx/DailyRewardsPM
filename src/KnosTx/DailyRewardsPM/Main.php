@@ -19,4 +19,5 @@ class Main extends PluginBase {
   public function getRewards() : bool {
     $this->rewards;
     return false;
+  }
 }
