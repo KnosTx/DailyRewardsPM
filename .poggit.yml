@@ -3,8 +3,6 @@ build-by-default: true
 branches:
 - main
 projects:
-  DailyRewardsPE:
+  DailyRewardsPM:
     path: ""
-    lint:
-      phpstan: false
 ...
