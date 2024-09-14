@@ -1,17 +1,17 @@
-name: DailyRewardsPE
+name: DailyRewardsPM
 version: 1.0.0
-author: Terpz710
-api: [5.0.0]
-main: Terpz710\DailyRewardsPE\Main
-description: A DailyRewards plugin for Pocketmine-MP.
+author: KnosTx
+api: 5.0.0
+main: KnosTx\DailyRewardsPM\Main
+description: A DailyRewardsPM plugin for Pocketmine-MP.
 
 permissions:
-  dailyrewardspe.command.daily:
+  dailyrewardspm.command.daily:
     description: Daily Rewards.
     default: true
-  dailyrewardspe.command.weekly:
+  dailyrewardspm.command.weekly:
     description: Weekly Rewards.
     default: true
-  dailyrewardspe.command.monthly:
+  dailyrewardspm.command.monthly:
     description: Monthly Rewards.
     default: true
